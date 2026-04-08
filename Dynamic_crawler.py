@@ -39,7 +39,7 @@ def selenium_options():
 
     return options
 
-def selenium_bulid():
+def selenium_build():
 
     # 自動下載驅動
 
